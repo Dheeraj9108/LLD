@@ -1,0 +1,4 @@
+2025-09-12 01:35:00.641 [INFO] - com.example.main: Info Log
+2025-09-12 01:35:00.645 [ERROR] - com.example.main: Error Log
+2025-09-12 01:35:18.821 [INFO] - com.example.main: Info Log
+2025-09-12 01:35:18.821 [ERROR] - com.example.main: Error Log
